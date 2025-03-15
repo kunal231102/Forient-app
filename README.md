@@ -74,5 +74,5 @@ Forient/
 This project is open-source and available under the **MIT License**.
 
 ---
-🚀 **Developed by [Your Name/Team]** - Bringing AI-powered forex predictions to mobile! 🚀
+🚀 **Developed by [Kunal Bag]** - Bringing AI-powered forex predictions to mobile! 🚀
 
